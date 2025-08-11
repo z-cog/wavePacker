@@ -336,7 +336,7 @@ int displayHelp(std::string input){
         "wavePacker takes in a MIDI file (filename.mid) and converts it into labeled cue points " <<
         "which are then inserted into a copy of a WAVE file (filename.wav).\n\n" <<
         "Both files must begin with the same handle, and must be in the same directory as this " <<
-        "program.\n\n" <<
+        "program.\n\nLabels are in order: LEFT, DOWN, UP, RIGHT.\n\n" <<
         "Press \"Enter\" to close this prompt."
         << std::endl;
         std::getline(std::cin, input);
