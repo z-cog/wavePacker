@@ -137,7 +137,7 @@ wavePacker -d mySong
 
 Created by **Zachary Colgrove**  
 For the **BYU 2026 Capstone Game – *DragonKisser***  
-GitHub: **@z-cog**
+GitHub: **[@z-cog](https://github.com/z-cog)**  
 
 ---
 
